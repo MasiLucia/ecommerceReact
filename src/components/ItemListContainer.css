@@ -1,0 +1,8 @@
+h3 {
+    text-align: center;
+    font-size: 28px;
+    letter-spacing: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 3px solid rgba(130, 3, 3, 0.604);
+}

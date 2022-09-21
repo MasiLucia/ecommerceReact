@@ -1,9 +1,10 @@
+import './ItemListContainer.css';
+
 const ItemListContainer = ( { greeting }) => {
 
-    // TODO: 
+
     return ( 
         <>
-        <p>Productos</p>
         <h3>{greeting}</h3>
         </>
      );
